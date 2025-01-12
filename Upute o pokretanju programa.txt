@@ -1,0 +1,16 @@
+Upute kako pokrenuti program.
+
+Na GitHubu nalazi se sva potrebna dokumentacija za pokretanje projekta iz Deklarativnog programiranja. Tema projekta je interaktivna fikcija - Inform 7 te je kreirana igra "Lost in the City: Max’s Journey".
+
+Poveznica na GitHub: https://github.com/nkrsnik21/Inform-7
+
+Na GitHubu preuzmite datoteke:
+Deklarativno programiranje projekt.inform 
+Deklarativno programiranje projekt.materials
+Music.i7x.txt
+
+Deklarativno programiranje projekt.inform pokrenite u programu Inform 7 te možete započeti s igranjem igre.
+
+Deklarativno programiranje projekt.materials sadrži slike i zvukove dodane u igru kako bi se pojačao dojam igre.
+
+Music.i7x.txt je ekstenzija koju je potrebno pokrenuti u Inform 7 kako bi se zvukovi u igri mogli aplicirati i čuti.
