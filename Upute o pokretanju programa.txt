@@ -14,3 +14,5 @@ Deklarativno programiranje projekt.inform pokrenite u programu Inform 7 te može
 Deklarativno programiranje projekt.materials sadrži slike i zvukove dodane u igru kako bi se pojačao dojam igre.
 
 Music.i7x.txt je ekstenzija koju je potrebno pokrenuti u Inform 7 kako bi se zvukovi u igri mogli aplicirati i čuti.
+
+Poveznica na Overleaf za prikaz LaTex datoteke: https://www.overleaf.com/read/zwmypdxddqdz#0fd57b
